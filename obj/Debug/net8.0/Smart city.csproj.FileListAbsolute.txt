@@ -1,0 +1,5 @@
+C:\Users\maxsu\source\repos\Smart city\obj\Debug\net8.0\Smart city.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxsu\source\repos\Smart city\obj\Debug\net8.0\Smart city.AssemblyInfoInputs.cache
+C:\Users\maxsu\source\repos\Smart city\obj\Debug\net8.0\Smart city.AssemblyInfo.cs
+C:\Users\maxsu\source\repos\Smart city\obj\Debug\net8.0\Smart city.csproj.CoreCompileInputs.cache
+C:\Users\maxsu\source\repos\Smart city\obj\Debug\net8.0\Smart city.csproj.AssemblyReference.cache
